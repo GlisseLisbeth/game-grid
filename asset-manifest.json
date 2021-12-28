@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/game-grid/static/css/main.c34cab80.css",
+    "main.js": "/game-grid/static/js/main.d9610a2c.js",
+    "static/js/787.e8e6a53a.chunk.js": "/game-grid/static/js/787.e8e6a53a.chunk.js",
+    "index.html": "/game-grid/index.html",
+    "main.c34cab80.css.map": "/game-grid/static/css/main.c34cab80.css.map",
+    "main.d9610a2c.js.map": "/game-grid/static/js/main.d9610a2c.js.map",
+    "787.e8e6a53a.chunk.js.map": "/game-grid/static/js/787.e8e6a53a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c34cab80.css",
+    "static/js/main.d9610a2c.js"
+  ]
+}
