@@ -1,0 +1,24 @@
+.App {
+    text-align: center;
+  }
+  
+  body {
+    font-family: 'Fredoka One', cursive;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  
+  .box {
+    display: flex;
+    justify-content: center;
+  }
+  .boxColor {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+  }
+  .selected {
+    border: 5px solid yellow;
+  }

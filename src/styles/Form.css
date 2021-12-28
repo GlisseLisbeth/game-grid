@@ -1,0 +1,17 @@
+input {
+    text-align: center;
+    width: 25px;
+    font-family: inherit;
+    font-size: 1em;
+    margin: 0 7px 0 3px;
+  }
+  
+  button {
+    color: white;
+    font-family: inherit;
+    font-size: 1.2em;
+    background-color: rgb(43, 124, 75);
+    border-radius: 5px;
+    border-style: none;
+    margin: 2px 0 10px 0;
+  }
